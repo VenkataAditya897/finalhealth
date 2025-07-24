@@ -94,4 +94,4 @@ Open this URL in your browser to access the app.
 
 ## Contact
 
-For questions or support, please contact [your-email@example.com].
+For questions or support, please contact venkataaditya897@gmail.com
